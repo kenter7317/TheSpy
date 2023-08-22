@@ -6,8 +6,8 @@ require 'gemcopy/version'
 Gem::Specification.new do |spec|
   spec.name          = "gemcopy"
   spec.version       = Gemcopy::VERSION
-  spec.authors       = ["licker2689"]
-  spec.email         = ["83544855+licker2689@users.noreply.github.com"]
+  spec.authors       = ["kenter7317"]
+  spec.email         = ["83544855+kenter7317@users.noreply.github.com"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
