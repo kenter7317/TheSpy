@@ -1,2 +1,2 @@
-한국어 조사 처리 스크립트
+korean_script
 Main
