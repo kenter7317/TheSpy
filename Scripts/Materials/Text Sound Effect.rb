@@ -21,7 +21,7 @@ module Text_Sound_Effect
   # If you need to turn off the sound effect for any part of the game,
   # turn this switch on
   # Set to nil to disable this feature
-  MESSAGE_SOUND_DISABLE = 5
+  MESSAGE_SOUND_DISABLE = nil
   
 end
 
