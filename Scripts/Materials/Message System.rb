@@ -201,12 +201,12 @@ module YEA
     # This array constant determines the fonts used. If the first font does not
     # exist on the player's computer, the next font in question will be used
     # in place instead and so on.
-    MESSAGE_WINDOW_FONT_NAME = ["둥근모꼴"]
+    MESSAGE_WINDOW_FONT_NAME = ["DOSMyungjo"]
     
     # These adjust the other settings regarding the way the game font appears
     # including the font size, whether or not the font is bolded by default,
     # italic by default, etc.
-    MESSAGE_WINDOW_FONT_SIZE    = 17      # Font size.
+    MESSAGE_WINDOW_FONT_SIZE    = 18      # Font size.
     MESSAGE_WINDOW_FONT_BOLD    = false    # Default bold?
     MESSAGE_WINDOW_FONT_ITALIC  = false    # Default italic?
     MESSAGE_WINDOW_FONT_OUTLINE = true     # Default outline?

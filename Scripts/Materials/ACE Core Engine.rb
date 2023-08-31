@@ -192,10 +192,10 @@ module YEA
     # Adjust the default font settings for your game here. The various settings
     # will be explained below.
     #=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-    FONT_NAME = ["둥근모꼴"]
+    FONT_NAME = ["DOSMyungjo"]
     # This adjusts the fonts used for your game. If the font at the start of
     # the array doesn't exist on the player's computer, it'll use the next one.
-    FONT_SIZE = 17       # Adjusts font size. Default: 24
+    FONT_SIZE = 18       # Adjusts font size. Default: 24
     FONT_BOLD = false    # Makes font bold. Default: false
     FONT_ITALIC = false  # Makes font italic. Default: false
     FONT_SHADOW = false  # Gives font a shadow. Default: false
