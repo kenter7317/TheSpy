@@ -10,7 +10,7 @@ module Text_Sound_Effect
   # Options
   #--------------------------------------------------------------------------
   # The sound effect to play
-  MESSAGE_SOUND = RPG::SE.new("Knock", 70, 100)
+  MESSAGE_SOUND = RPG::SE.new("Cursor1", 70, 100)
 
   # The number of characters to display before each time the sound plays
   # The default is 3, it's recommended you keep it as this unless you
